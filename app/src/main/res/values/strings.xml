@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Live Teleprompter</string>
+    <string name="channel_name_teleprompter">Layanan Floating Teleprompter</string>
+    <string name="channel_desc_teleprompter">Notifikasi persisten saat jendela naskah live sedang mengambang</string>
+    <string name="notification_title">Live Teleprompter Aktif</string>
+    <string name="notification_text">Jendela teleprompter mengambang sedang aktif di atas aplikasi lain</string>
+    <string name="btn_stop_overlay">Tutup Teleprompter</string>
+</resources>

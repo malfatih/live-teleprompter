@@ -1,0 +1,6 @@
+{
+  "name": "Live Teleprompter",
+  "description": "Floating teleprompter and video recording studio with MP4 export/download for TikTok, Instagram, and YouTube creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
